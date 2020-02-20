@@ -17,6 +17,8 @@ The right side switches beteween:
 3. The current CPU temperature
 4. The current system time
 
+![demo](demo.gif)
+
 ## I²C bus speed
 
 I advise to increese the baudrate on the I²C bus to improve refresh rates:
