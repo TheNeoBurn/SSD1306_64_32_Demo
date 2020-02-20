@@ -1,0 +1,10 @@
+Add your animation files here:
+
+000.ppm
+001.ppm
+002.ppm
+...
+
+There should be 32x32 pixel monocrome images. You can use convert to import PNGs or other images:
+
+convert myimage001.png 001.ppm
