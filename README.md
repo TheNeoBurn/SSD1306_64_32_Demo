@@ -23,8 +23,8 @@ The right side switches beteween:
 
 I advise to increese the baudrate on the I²C bus to improve refresh rates:
 
-sudo nano /boot/config.txt
+`sudo nano /boot/config.txt`
 
 uncomment and/or edit the line with for i2c:
 
-dtparam=i2c_arm=on,i2c_arm_baudrate=400000
+`dtparam=i2c_arm=on,i2c_arm_baudrate=400000`
